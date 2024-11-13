@@ -40,10 +40,12 @@ html_template = """
             <li>Input a number</li>
             <li>If odd: multiply by 3 and add 1 (3n+1)</li>
             <li>If even: divide by 2</li>
-            <li>repeat until number eventually reaches a loop: 1*3+1 = 4, divide by 2 = 2, divide by 2 = 1: repeating in a loop.</li>
+            <li>repeat until number eventually reaches a loop: 1*3 + 1 = 4, then divide by 2: = 2, divide by 2 agin: = 1: repeating in a loop.</li>
+            <li>No matter what number is inserted, a chaotic pattern of numbers is created, but it always ends in the same loop</li>
+            <li>Despite 2^68 numbers being tested(more than 295 billion billion), It isn't proof as not all numbers have been tested. </li>
           </ul>
         </div>
-        <h3>contact me at altdentifier123@gmail.com for any bugs or tips!</h3>
+        <h4>contact me at altdentifier123@gmail.com for any bugs or tips!</h4>
       </div>
 
 </body>
